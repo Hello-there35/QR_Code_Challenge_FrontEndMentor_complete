@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This project has a QR code which links you to FrontEndMentor when using your phone
 ### Screenshot
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](/images/Screenshot.png)
 
 
 
