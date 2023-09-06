@@ -25,7 +25,7 @@ This project has a QR code which links you to FrontEndMentor when using your pho
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-webpage-frontend-mentor-challenge-3EpB7fVIlf)
+- Solution URL: [Have something to say/recommend go here.](https://www.frontendmentor.io/solutions/qr-code-webpage-frontend-mentor-challenge-3EpB7fVIlf)
 - Live Site URL: [Live Site](https://hello-there35.github.io/QR_Code_Challenge_FrontEndMentor_complete/)
 
 ## My process
